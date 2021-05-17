@@ -1,0 +1,9 @@
+index,service
+-1,test
+0,t2.nano
+1,t2.micro
+2,t2.small
+3,t2.medium
+4,t2.large
+5,t2.xlarge
+6,t2.2xlarge

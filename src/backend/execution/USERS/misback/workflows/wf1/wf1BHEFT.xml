@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<workflow>
+    <task>
+        <id>0</id>
+        <service>2</service>
+    </task>
+    <task>
+        <id>1</id>
+        <service>2</service>
+    </task>
+    <task>
+        <id>2</id>
+        <service>1</service>
+    </task>
+    <task>
+        <id>3</id>
+        <service>0</service>
+    </task>
+</workflow>

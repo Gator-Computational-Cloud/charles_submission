@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<workflow>
+    <budget>10.0</budget>
+    <task>
+        <id>0</id>
+        <rts>3.019,3.164,2.961</rts>
+        <weights/>
+    </task>
+    <task>
+        <id>1</id>
+        <rts>2.905,3.005,2.792</rts>
+        <weights>8</weights>
+    </task>
+    <task>
+        <id>2</id>
+        <rts>2.877,2.8,2.945</rts>
+        <weights>8</weights>
+    </task>
+    <task>
+        <id>3</id>
+        <rts>0.857,0.884,0.938</rts>
+        <weights>288,288</weights>
+    </task>
+</workflow>
+

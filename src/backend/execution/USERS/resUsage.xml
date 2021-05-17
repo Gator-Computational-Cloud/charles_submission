@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<resources>
+    <r>
+        <rescount>3</rescount>
+        <rcost>0.92,0.29,0.40</rcost>
+        <trate>0.52,1.40,0.68</trate>
+        <name>t2.micro,t2.micro,t2.micro</name>
+    </r>
+</resources>
